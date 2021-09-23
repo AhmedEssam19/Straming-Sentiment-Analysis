@@ -22,10 +22,10 @@ about it.
 * Test set (unseen data): the model achieved 86.8% accuracy on the test set and 86.3%
 on the validation set.
 * Streaming data (keyword: Harry Potter)
-* 
+
 ![alt text](https://github.com/AhmedEssam19/Straming-Sentiment-Analysis/blob/master/Pics/Screenshot%20from%202021-09-18%2019-24-48.png)
 * Streaming data (keyword: Interstellar)
-* 
+
 ![alt text](https://github.com/AhmedEssam19/Straming-Sentiment-Analysis/blob/master/Pics/Screenshot%20from%202021-09-18%2020-02-42.png)
 
 
